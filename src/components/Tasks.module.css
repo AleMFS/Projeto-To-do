@@ -1,0 +1,49 @@
+.tasklist {
+
+    display: flex;
+    justify-content: space-between;
+    background: var(--gray-500);
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+}
+
+.tasklist button {
+    border: none;
+    background: transparent;
+}
+.tasklist p {
+    max-width: 39.5rem;
+}
+
+.completed {
+    color: var(--gray-300);
+    text-decoration: line-through;
+}
+
+.incompleted {
+    color: var(--gray-100);
+}
+
+.circle{
+    color: var(--blue);
+
+}
+.circle:hover{
+    color: var(--blue-dark);
+}
+.check{
+    color: var(--gray-100);
+    background: var(--purple-dark);
+    border-radius: 999px;
+    padding: 3px;
+}
+.check:hover{
+    background: var(--purple);
+}
+.trash {
+    color: var(--gray-100);
+}
+.trash:hover{
+    color:var(--red);
+}
