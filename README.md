@@ -1,8 +1,5 @@
 # To Do 
 
-
-### This project was developed during the Ignite offered by Rocketseat 
-
 <br/>
 
 ### Este projeto foi desenvolvido durante o ignite e oferecido pela Rocketseat 
