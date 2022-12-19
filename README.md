@@ -1,8 +1,8 @@
 # To Do 
 
+### This project was developed during the Ignite offered by Rocketseat 
 
-### Este projeto foi desenvolvido durante o ignite e oferecido pela Rocketseat 
-
+<br> 
 
 # Project 🖥️
 
@@ -13,7 +13,7 @@ To-do list
 
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/docs/)
-
+- [Figma](https://www.figma.com/file/3H8v3smoDMkac3e0ue7zmT/ToDo-List-(Copy)?node-id=0%3A1&t=6XlXwkK0la9PZ5kB-0)
 
 # Desktop
 
@@ -23,4 +23,4 @@ In the directory you can run:
 2. `npm run dev`
 
 
-![](.//src/assets/apresentation/To-do.gif)
+![](.//src//assets//apresentation/To-do.gif)
