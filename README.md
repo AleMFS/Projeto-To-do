@@ -1,11 +1,8 @@
 # To Do 
 
-<br/>
 
 ### Este projeto foi desenvolvido durante o ignite e oferecido pela Rocketseat 
 
-
-<br>
 
 # Project 🖥️
 
